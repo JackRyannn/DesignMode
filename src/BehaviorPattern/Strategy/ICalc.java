@@ -1,0 +1,5 @@
+package BehaviorPattern.Strategy;
+
+public interface ICalc {
+    int calc(int a, int b);
+}
